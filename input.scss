@@ -1,0 +1,15 @@
+$secondary: #b2ad7f;
+$primary: #a2b9bc;
+$background-color: #fcc2cb;
+$bgfooter: gray;
+
+header {
+    color: $primary;
+}
+main {
+    background-color: $background-color;
+}
+footer {
+    color: $secondary;
+    background-color: $bgfooter;
+}
